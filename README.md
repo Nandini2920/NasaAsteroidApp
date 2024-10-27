@@ -18,7 +18,7 @@ Asteroid Explorer is a mobile app built with Expo and React Native that allows u
   npm install -g expo-cli
 1. Clone the repository
   ```bash
-git clone https://github.com/nikunjcodes/NasaAsteroidApp.git
+git clone https://github.com/Nandini2920/NasaAsteroidApp.git
 cd NasaApp
 npm install
 ```
